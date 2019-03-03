@@ -1,0 +1,21 @@
+no-permission: '&cYou do not have permission to use this command.'
+invalid-usage: '&cInvalid command usage. Use /tntpaper help for more information.'
+invalid-player: '&cFailed to find player %player%.'
+config-reloaded: '&aPlugin files successfully reloaded.'
+tnt-ids-reset: '&aTNT paper IDs have been reset.'
+infinite-tnt-paper-sent: '&aYou sent &7%player% &aTNT paper with &c%tnt% &aTNT &7(infinite)&a.'
+infinite-tnt-paper-received: '&aYou received &aTNT paper with &c%tnt% &aTNT &7(infinite)&a.'
+maximum-tnt-paper-sent: '&aYou sent &7%player% &aTNT paper with &c%tnt% &aTNT &7(max: %maximum%)&c.'
+maximum-tnt-paper-received: '&aYou received &aTNT paper with &c%tnt% &aTNT &7(max: %maximum%)&c.'
+not-in-faction-claim: '&cYou need to be in your own land to use this.'
+tnt-paper-loaded: '&7You have pulled &c%tnt% &7TNT and deposited it into your TNT paper.'
+tnt-paper-distributed: '&7You have distributed &c%tnt% &7TNT to &c%dispensers% &7dispensers in a &c%radius% block &7radius.'
+load-on-cooldown: '&cYou must wait %time% seconds before taking TNT from dispensers again.'
+distribute-on-cooldown: '&cYou must wait %time% seconds before putting TNT into dispensers again.'
+no-tnt-distributed: '&cThere were no dispensers nearby that needed TNT.'
+no-tnt-loaded: '&cThere were no dispensers nearby that had TNT.'
+help-message:
+  - "&c/tntpaper help &7- Display a help page with a list of all commands."
+  - "&c/tntpaper reload &7- Reload the plugin's configuration files."
+  - "&c/tntpaper give <player> [amount] [maximum] &7- Give a player a given number of papers with a given maximum."
+  - "&c/tntpaper reset &7- Reset the ID's of the tnt papers. (ID's are used to stop stacking of tnt paper)"

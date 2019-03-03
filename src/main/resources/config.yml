@@ -1,0 +1,17 @@
+faction-only: true
+radius: 20
+load-cooldown: 10
+distribute-cooldown: 10
+
+item:
+  current-id: 1
+  material: PAPER
+  name: '&b&lTNT Paper'
+  lore:
+    - ''
+    - '&cx%amount% TNT'
+  lore-max:
+    - ''
+    - '&cx%amount% TNT'
+    - '&cMax TNT: %max%'
+  enchanted: true

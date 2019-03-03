@@ -1,0 +1,12 @@
+name: TNTPaper
+main: kr.kieran.tntpaper.TNTPaper
+version: ${project.version}
+description: ${project.description}
+author: Kieraaaan
+website: ${project.url}
+depend: ["Factions"]
+commands:
+  tntpaper:
+    usage: /<command>
+    description: Displays help about the plugin and available commands.
+    aliases: ["tntpouch"]
