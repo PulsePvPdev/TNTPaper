@@ -13,12 +13,11 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <build.number>RELEASE</build.number>
     </properties>
 
     <build>
         <defaultGoal>clean install</defaultGoal>
-        <finalName>FactionsUtils</finalName>
+        <finalName>TNTPaper</finalName>
         <resources>
             <resource>
                 <filtering>true</filtering>
