@@ -3,6 +3,7 @@
 [![Build Status](https://travis-ci.org/Workinq/TNTPaper.svg?branch=master)](https://travis-ci.org/Workinq/TNTPaper)
 [![CircleCI](https://circleci.com/gh/Workinq/TNTPaper.svg?style=shield)](https://circleci.com/gh/Workinq/TNTPaper)
 [![Build status](https://ci.appveyor.com/api/projects/status/1ugi62m4gq7fec4w/branch/master?svg=true)](https://ci.appveyor.com/project/Workinq/tntpaper/branch/master)
+[![wercker status](https://app.wercker.com/status/b3e825476a5baf6cf68d0866eae80c6e/s/master "wercker status")](https://app.wercker.com/project/byKey/b3e825476a5baf6cf68d0866eae80c6e)
 [![buddy pipeline](https://app.buddy.works/ramseykieran/tntpaper/pipelines/pipeline/191399/badge.svg?token=7acd065675fa353ea01e0f8dc7645a15c933d27b70146907def6fd252b192b21 "buddy pipeline")](https://app.buddy.works/ramseykieran/tntpaper/pipelines/pipeline/191399)
 
 
